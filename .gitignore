@@ -1,5 +1,11 @@
 # Prerequisites
 *.d
+# Project-specific files
+library
+issue.dat
+library.dat
+temp.dat
+temp_issue.dat
 
 # Object files
 *.o
